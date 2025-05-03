@@ -1,0 +1,16 @@
+C:\3. project\TetrisGame\obj\Debug\TetrisGame.csproj.AssemblyReference.cache
+C:\3. project\TetrisGame\obj\Debug\TetrisGame.csproj.SuggestedBindingRedirects.cache
+C:\3. project\TetrisGame\obj\Debug\MainWindow.g.cs
+C:\3. project\TetrisGame\obj\Debug\App.g.cs
+C:\3. project\TetrisGame\obj\Debug\TetrisGame_MarkupCompile.cache
+C:\3. project\TetrisGame\obj\Debug\TetrisGame_MarkupCompile.lref
+C:\3. project\TetrisGame\bin\Debug\TetrisGame.exe.config
+C:\3. project\TetrisGame\bin\Debug\TetrisGame.exe
+C:\3. project\TetrisGame\bin\Debug\TetrisGame.pdb
+C:\3. project\TetrisGame\obj\Debug\MainWindow.baml
+C:\3. project\TetrisGame\obj\Debug\TetrisGame.g.resources
+C:\3. project\TetrisGame\obj\Debug\TetrisGame.Properties.Resources.resources
+C:\3. project\TetrisGame\obj\Debug\TetrisGame.csproj.GenerateResource.cache
+C:\3. project\TetrisGame\obj\Debug\TetrisGame.csproj.CoreCompileInputs.cache
+C:\3. project\TetrisGame\obj\Debug\TetrisGame.exe
+C:\3. project\TetrisGame\obj\Debug\TetrisGame.pdb
